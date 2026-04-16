@@ -60,7 +60,7 @@ En pocos días (a veces horas) suele llegar al correo:
 
 ## Anexos
 
-Pasos posteriores a la constitución: venta internacional de productos digitales, banca, cumplimiento tributario y comprobación de quién puede actuar en cada ventanilla.
+Pasos posteriores a la constitución: venta internacional de productos digitales, banca, cumplimiento tributario, comprobación de quién puede actuar en cada ventanilla y fechas y responsabilidades frente al Estado.
 
 ### A. DUNS para tiendas internacionales
 
@@ -98,6 +98,22 @@ Conviene **probar** que quien opera en línea está autorizado: tú como titular
 - [ ] Inicio de sesión en [línea CCB](https://linea.ccb.org.co/) (o portal de tu cámara) **como empresa** o como usuario delegado, sin errores de perfil.
 - [ ] Mismo criterio para otras gestiones que la cámara concentre en su web.
 - [ ] Ingreso al entorno de la **DIAN** con el **NIT correcto** (persona natural vs jurídica) y, si aplica, usuario **tercero** ya inscrito con el alcance necesario (facturación, declaraciones, etc.).
+
+### E. Fechas, responsabilidades y obligaciones legales
+
+Para **cumplir obligaciones** (tributarias, de registro, de reporte, etc.) suele ayudar tener **fechas claras** (vencimientos, renovaciones, plazos) y **responsabilidades explícitas** (quién prepara qué, quién firma, quién presenta en línea). Eso reduce errores y solapamientos entre socios, representante legal, contador o apoderados.
+
+En la práctica, lo que «toca» a la empresa **se desprende** de lo que quedó definido **al constituirla** y de lo que luego se actualice en los sistemas oficiales, por ejemplo:
+
+- **Estatutos y registro mercantil:** objeto social, cómo se administra la sociedad y **quién representa** a la empresa ante terceros; conviene que lo que hagan día a día (firmas, accesos) sea coherente con eso y con los **poderes** o actas que apliquen (relacionado con el anexo D).
+- **Actividad económica (CIIU)** y operación real del negocio: si el giro cambia o se amplía, suele haber implicaciones en **RUT** y en qué declaraciones o trámites aplican (complementa el anexo C).
+- **RUT y responsables tributarios** en [DIAN](https://www.dian.gov.co/): lo inscrito debe reflejar responsabilidades reales; los plazos concretos dependen del caso y del calendario vigente.
+
+**Lista de comprobación conceptual**
+
+- [ ] Calendario interno (o con asesoría contable) con **vencimientos** relevantes para tu situación, revisado ante el entorno oficial cuando cambien normas o el negocio.
+- [ ] Roles por tema: facturación, nómina si aplica, declaraciones, renovación en **Cámara de Comercio**, respuesta a requerimientos.
+- [ ] Accesos en **MUISCA** y portales alineados con **poderes** y con quienes realmente operan (anexo D).
 
 ---
 
