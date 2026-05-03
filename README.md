@@ -69,6 +69,7 @@ Varias plataformas (por ejemplo desarrolladores de apps o distribución de softw
 - **Qué es:** Un número único de identificación de negocio; no sustituye el NIT colombiano, pero lo suelen exigir los portales internacionales.
 - **Cómo obtenerlo:** Solicitud ante **Dun & Bradstreet** con datos de la empresa (razón social, dirección, NIT, etc.). El plazo y el costo dependen del canal y del país.
 - **Enlace de referencia:** [Información sobre D-U-N-S — Dun & Bradstreet](https://www.dnb.com/duns/get-a-duns.html) (revisa también la guía de la tienda concreta: Apple, Google, etc.).
+- **Dirección en el registro de D&B:** Las tiendas suelen **validar el D-U-N-S** contra los datos que figuran en **Dun & Bradstreet**. Conviene **actualizar la dirección** (y el resto de datos relevantes) en la **página o portal oficial de D&B** para que coincidan con la empresa y con lo que declares al registrarte como desarrollador o editor; si no está alineado, el alta del D-U-N-S en la tienda puede fallar o demorarse.
 
 ### B. Cuenta bancaria (persona jurídica)
 
